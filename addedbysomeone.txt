@@ -1,0 +1,1 @@
+Imagine this file as added by someone. And now you go to work in the morning and fetch this into your own branch.
